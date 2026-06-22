@@ -11,9 +11,10 @@ ________________________________________
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,jenkins,git,github,terraform,ansible,bash,python,mysql" />
 </p>
-________________________________________
+
+
 📊 GitHub Statistics
-________________________________________
+
 ☁️ Cloud & DevOps Technologies
 •	AWS EC2
 •	Auto Scaling Groups
@@ -29,7 +30,8 @@ ________________________________________
 •	Terraform
 •	Linux Administration
 •	Git & GitHub
-________________________________________
+
+
 📂 Featured Projects
 🚀 AWS Infrastructure Automation
 •	Automated infrastructure provisioning using Terraform
@@ -40,15 +42,17 @@ ________________________________________
 🚀 Containerized Applications
 •	Dockerized applications
 •	Kubernetes deployments and scaling
-________________________________________
+
+
 📫 Connect With Me
 •	LinkedIn: www.linkedin.com/in/santosh-chulbhare-32a369338
 •	GitHub: https://github.com/chulbharesantosh
 •	Email : Santosh.chulbhare93@gmail.com
-________________________________________
+
+
 👀 Profile Views
  
-________________________________________
+
 💡 DevOps Quote
 "Automate everything that can be automated."
 
