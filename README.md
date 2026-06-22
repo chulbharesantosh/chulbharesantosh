@@ -6,7 +6,7 @@
 - 🌱 Currently learning Advanced Kubernetes & Cloud-Native Technologies
 - 🎯 Goal: Become a Cloud & DevOps Architect
 
-🛠️ Skills & Tools
+##🛠️ Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,jenkins,git,github,terraform,ansible,bash,python,mysql" />
 </p>
@@ -14,7 +14,7 @@
 
 📊 GitHub Statistics
 
-☁️ Cloud & DevOps Technologies
+##☁️ Cloud & DevOps Technologies
 •	AWS EC2
 •	Auto Scaling Groups
 •	Elastic Load Balancer
@@ -31,7 +31,7 @@
 •	Git & GitHub
 
 
-📂 Featured Projects
+##📂 Featured Projects
 🚀 AWS Infrastructure Automation
 •	Automated infrastructure provisioning using Terraform
 •	Configured EC2, Load Balancers and Auto Scaling
@@ -43,7 +43,7 @@
 •	Kubernetes deployments and scaling
 
 
-📫 Connect With Me
+##📫 Connect With Me
 •	LinkedIn: www.linkedin.com/in/santosh-chulbhare-32a369338
 •	GitHub: https://github.com/chulbharesantosh
 •	Email : Santosh.chulbhare93@gmail.com
