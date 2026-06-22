@@ -1,12 +1,11 @@
-Hi 👋, I'm Santosh Chulbhare
-________________________________________
-🚀 About Me
-•	💼 DevOps Engineer with experience in AWS Cloud & Linux Administration
-•	☁️ Working with AWS, Docker, Kubernetes, Jenkins & Terraform
-•	🔧 Passionate about Infrastructure Automation and CI/CD
-•	🌱 Currently learning Advanced Kubernetes & Cloud-Native Technologies
-•	🎯 Goal: Become a Cloud & DevOps Architect
-________________________________________
+## 🚀 About Me
+
+- 💼 DevOps Engineer with experience in AWS Cloud & Linux Administration
+- ☁️ Working with AWS, Docker, Kubernetes, Jenkins & Terraform
+- 🔧 Passionate about Infrastructure Automation and CI/CD
+- 🌱 Currently learning Advanced Kubernetes & Cloud-Native Technologies
+- 🎯 Goal: Become a Cloud & DevOps Architect
+
 🛠️ Skills & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,jenkins,git,github,terraform,ansible,bash,python,mysql" />
