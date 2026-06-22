@@ -1,5 +1,5 @@
 # Hi 👋, I'm Santosh Chulbhare
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineer+%7C+AWS+Cloud+Engineer+%7C+;Technical+Support+Engineer%7C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=DevOps+Engineer+%7C+AWS+Cloud+Engineer+%7C+Technical+Support+Engineer%7C)](https://git.io/typing-svg)
 
 🚀 DevOps Engineer
 
