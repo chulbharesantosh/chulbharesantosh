@@ -31,7 +31,7 @@
 -	Git & GitHub
 
 
-##📂 Featured Projects
+📂 Featured Projects
 🚀 AWS Infrastructure Automation
 -	Automated infrastructure provisioning using Terraform
 -	Configured EC2, Load Balancers and Auto Scaling
