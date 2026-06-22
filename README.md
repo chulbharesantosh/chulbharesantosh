@@ -49,6 +49,9 @@ ________________________________________
 •	GitHub: https://github.com/chulbharesantosh
 •	Email : Santosh.chulbhare93@gmail.com
 
+💡 DevOps Quote
+"Automate everything that can be automated."
+
 
 👀 Profile Views
 <p align="center">
@@ -56,6 +59,5 @@ ________________________________________
 </p>
  
 
-💡 DevOps Quote
-"Automate everything that can be automated."
+
 
