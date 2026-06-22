@@ -46,7 +46,7 @@
 📫 Connect With Me
 -	LinkedIn: www.linkedin.com/in/santosh-chulbhare-32a369338
 -	GitHub: https://github.com/chulbharesantosh
--	Email : Santosh.chulbhare93@gmail.com
+-	Email : santosh.chulbhare93@gmail.com
 
 💡 DevOps Quote
 "Automate everything that can be automated."
